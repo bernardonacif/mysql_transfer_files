@@ -1,6 +1,6 @@
-PT-BR
+PT-BR 🇧🇷
 
-in English [Data Transfer Script(# Data Transfer Script)
+[in English](#data-transfer-script) 🇺🇸
 
 # Script de Transferência de Dados
 
@@ -42,6 +42,12 @@ Bernardo Nacif
 ## Licença
 
 Este script é disponibilizado sob a licença MIT. Consulte o arquivo LICENSE para obter mais informações.
+
+---
+
+[PT-BR](#script-de-transferência-de-dados) 🇧🇷
+
+EN 🇺🇸
 
 ---
 # Data Transfer Script
